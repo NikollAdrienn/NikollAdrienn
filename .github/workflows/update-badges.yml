@@ -1,7 +1,8 @@
+
 name: Update badges
 
 on:
-  workflow_dispatch:
+   workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -9,3 +10,5 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
