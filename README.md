@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <!--
 **NikollAdrienn/NikollAdrienn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
