@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=NikollAdrienn)
+
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Nikoll Adrienn Ujlaki</h1>
 
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
