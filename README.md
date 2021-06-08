@@ -10,7 +10,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nikoll-adrienn-ujlaki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="niko" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nikoll-adrienn-ujlaki/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="niko" height="30" width="30" /></a>
 </p>
 
 
